@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 23 号添加
 
+#### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
+* :white_check_mark: [听歌Next](https://tinggenext.com)：多人在线共同听歌 - [更多介绍](https://tinggenext.com)
+* :white_check_mark: [Fin-Agent](https://fin-agent.chat)：帮助投资者对投资标的进行专业分析 - [更多介绍](https://fin-agent.chat)
+* :white_check_mark: [Doc2Md](https://doc2md.cn)：将 PDF、Word、Excel 等多种格式文件转换成 Agent 友好的 Markdown 格式 - [更多介绍](https://doc2md.cn)
+* :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
+
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
 * :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。
